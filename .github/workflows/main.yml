@@ -54,8 +54,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pnpm install
+          npm install
 
       - name: Deploy hexo
         run: |
-          pnpm run deploy
+          npm run deploy
