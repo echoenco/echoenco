@@ -8,8 +8,8 @@ on:
 
 env:
   GIT_USER: qbmzc
-  GIT_EMAIL: mxlyzc@163.com
-  DEPLOY_REPO: echoenco/echoenco.github.io
+  GIT_EMAIL: qbmzc@outlook.com
+  DEPLOY_REPO: echoenco/echoenco
   DEPLOY_BRANCH: main
 
 jobs:
